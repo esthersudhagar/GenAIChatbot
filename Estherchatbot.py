@@ -51,7 +51,7 @@ if file is not None:
             google_api_key=GOOGLE_API_KEY,
             max_tokens=300,
             temperature=0,
-            model="gemini-2.5-flash",
+            model="gemini-flash-latest",
         )
 
         customized_prompt = ChatPromptTemplate.from_template(
