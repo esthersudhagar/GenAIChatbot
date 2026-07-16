@@ -1,0 +1,8 @@
+streamlit==1.59.2
+PyPDF2==3.0.1
+langchain_classic==1.0.8
+langchain-text-splitters==1.1.2
+langchain-google-genai==4.2.7
+langchain-community==0.4.2
+langchain-core==1.4.9
+faiss-cpu==1.9.0
